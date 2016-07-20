@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+# user starter_generators for base style
+gem 'starter_generators'
+# use faker to populate database/models
 gem 'faker'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.6'
